@@ -186,7 +186,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/wesbos\/dad-jokes\/master\/readme.md"
+                 "value":"https:\/\/tv.giphy.com\/paper"
                 }],
          "type":"tilelayer",
          "visible":true,
