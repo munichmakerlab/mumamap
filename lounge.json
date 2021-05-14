@@ -168,7 +168,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tv.giphy.com\/xmasparty"
+                 "value":"https:\/\/tv.giphy.com\/party"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1563,7 +1563,7 @@
         {
          "columns":20,
          "firstgid":898,
-         "image":"..\/mumamaps\/tiles\/outside.png",
+         "image":"tiles\/outside.png",
          "imageheight":576,
          "imagewidth":640,
          "margin":0,
